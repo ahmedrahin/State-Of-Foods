@@ -827,7 +827,7 @@ footer span {
      {width: 32px;height: 32px;line-height: 32px;font-size: 15px;}
 
     .banner {background-size: 100% 100%;}
-    header {padding:  16px 0 12px;}
+    header {padding: 29px 0 25px;}
     .navbar-toggler {background: white;border: none;}
     .navbar-toggler-icon {border: none;}
     .navbar-toggler:focus {box-shadow: none;outline: none;}
@@ -841,6 +841,7 @@ footer span {
     .about-us {padding: 50px 0;text-align: center;}
     .about-info {margin-bottom: 50px;}
     .about-info h2 {margin-bottom: 25px;}
+    .about-info h2 span {margin-right: 5px;}
     .about-info em {letter-spacing: 2px;margin: 15px 0;}
     .about-info button {padding: 9px 20px;margin-top: 20px;font-size: 14px;}
     .about-info p {padding: 0;}
@@ -851,6 +852,7 @@ footer span {
     .service {background-size: 100% 100%;}
     .service .transparent {padding: 50px 0 30px;}
     .service h2 {margin-bottom: 60px;}
+    .service span {margin-right: 5px}
     .service-item {margin-bottom: 40px;text-align: center;}
     .service-icon {margin: auto;width: 50px;height: 50px;line-height: 50px;margin-bottom: 10px;font-size: 21px;}
     .service-info {margin-left: 0;}
