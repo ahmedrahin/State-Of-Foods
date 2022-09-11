@@ -832,7 +832,7 @@ footer span {
     .navbar-toggler-icon {border: none;}
     .navbar-toggler:focus {box-shadow: none;outline: none;}
     .navbar-nav {margin-top: 35px;padding-bottom: 123px;}
-    .navbar-nav .nav-item .nav-link {padding: 7px 0;width: 40%; text-align: center;margin: auto;font-size: 16px;border-radius: 7px;}
+    .navbar-nav .nav-item .nav-link {padding: 7px 0;width: 40%; text-align: center;margin: auto;font-size: 16px;}
     header a[href="#home"] {border: none;}
     .nav-item {margin: 7px 0;}
     .banner-item h3 a {letter-spacing: 2.5px;padding-left: 10px;}
