@@ -831,8 +831,8 @@ footer span {
     .navbar-toggler {background: white;border: none;}
     .navbar-toggler-icon {border: none;}
     .navbar-toggler:focus {box-shadow: none;outline: none;}
-    .navbar-nav {margin-top: 35px;}
-    .navbar-nav .nav-item .nav-link {padding: 7px 0;width: 60%; text-align: center;margin: auto;font-size: 16px;}
+    .navbar-nav {margin-top: 35px;padding-bottom: 123px;}
+    .navbar-nav .nav-item .nav-link {padding: 7px 0;width: 40%; text-align: center;margin: auto;font-size: 16px;border-radius: 7px;}
     header a[href="#home"] {border: none;}
     .nav-item {margin: 7px 0;}
     .banner-item h3 a {letter-spacing: 2.5px;padding-left: 10px;}
@@ -861,7 +861,7 @@ footer span {
     .gellary {padding: 50px 0;}
     .gellary h2 {margin-bottom: 40px;}
     .gellary-item img {height: 225px;}
-    .gellary-info {top: 24px;left: 13px;padding: 16px 17px;width: 85%;height: 78%;}
+    .gellary-info {top: 24px;left: 13px;padding: 30px 17px;width: 85%;height: 78%;}
     .gellary-info h4 {font-size: 18px;padding: 3px 0;}
     .gellary-info p {margin-top: 15px;}
     .gellary .for-responsive {display: none;}
@@ -869,6 +869,7 @@ footer span {
     .news {background-size: 100% 100%;}
     .transparent {padding: 50px 0;}
     .news h2 {margin-bottom: 40px;}
+    .news span {margin-right: 6px;}
     .news-info {padding: 40px 20px 5px;width: 90%;}
     .news-item {display: inherit;margin: 0;}
     .news-title {text-align: center;width: 100%;}
@@ -881,12 +882,14 @@ footer span {
     
     .team {padding: 50px 0;}
     .team h2 {margin-bottom: 30px;}
+    .team span {margin-right: 5px;}
     .team-members {height: 220px;}
     .team-members-info {padding: 33px 10px;}
     .team-members-info p {padding: 7px 0px 15px;}
 
     .feedback {background-size: 100% 100%;}
     .feedback h2 {margin-bottom: 40px;}
+    .feedback span {margin-right: 6px;}
     .customer-info {margin-top: 30px;}
     .customer-info img {width: 70px !important;height: 70px;}
     .owl-theme .owl-dots .owl-dot span {width: 9px !important;height: 9px !important;}
@@ -894,11 +897,12 @@ footer span {
 
     .subcsribe {padding: 50px 0;}
     .subcsribe h2 {margin-bottom: 30px;}
+    .subcsribe span {margin-right: 6px;}
     .subcsribe input[type="email"] {width: 75%;}
     .subcsribe label {margin: 18px 0;}
 
     .address {padding: 50px 0;text-align: center;}
-    .address h4 {width: 50%;padding: 4px 0;margin: 25px auto;}
+    .address h4 {width: 50%;padding: 4px 0;margin: 25px auto;border:1.2px solid;}
     .address .address-bar {text-align: left;padding: 0 50px;}
     .address ul li {margin-bottom: 12px;}
     .address ul li a {font-size: 12px;}
@@ -906,6 +910,7 @@ footer span {
     .contact-info {position: inherit;width: 100%;}
     .address .follow ul li a i {margin: 0;}
     .contact-info {padding: 50px 0 35px;}
+    .contact-info span {margin-right: 6px;}
     .contact-info label {letter-spacing: 3px;font-size: 14px;margin: 20px 0 45px;}
     .contact-info input ,
     .contact-info textarea {width: 90%;}
