@@ -861,7 +861,7 @@ footer span {
     .gellary {padding: 50px 0;}
     .gellary h2 {margin-bottom: 40px;}
     .gellary-item img {height: 225px;}
-    .gellary-info {top: 24px;left: 13px;padding: 30px 17px;width: 85%;height: 78%;}
+    .gellary-info {top: 24px;left: 13px;padding: 15px 8px;width: 85%;height: 78%;}
     .gellary-info h4 {font-size: 18px;padding: 3px 0;}
     .gellary-info p {margin-top: 15px;}
     .gellary .for-responsive {display: none;}
@@ -902,7 +902,7 @@ footer span {
     .subcsribe label {margin: 18px 0;}
 
     .address {padding: 50px 0;text-align: center;}
-    .address h4 {width: 50%;padding: 4px 0;margin: 25px auto;border:1.2px solid;}
+    .address h4 {width: 50%;padding: 4px 0;margin: 25px auto;border-top:1.2px solid;border-bottom:1.2px solid;}
     .address .address-bar {text-align: left;padding: 0 50px;}
     .address ul li {margin-bottom: 12px;}
     .address ul li a {font-size: 12px;}
