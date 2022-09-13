@@ -878,7 +878,7 @@ footer span {
     .news-date {width: 65px;height: 65px;margin: 10px auto 40px;padding-top: 8px;}
     .two-item .news-title {text-align: center;}
     .two-item .news-date {margin: 0 auto 10px;}
-    .two-item .news-date span {margin: 0;}
+    .news-date span {margin: 0;}
     .two-item .for-responsive {margin: 40px auto 10px;}
     
     .team {padding: 50px 0;}
