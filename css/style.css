@@ -831,7 +831,7 @@ footer span {
     .navbar-toggler {background: white;border: none;}
     .navbar-toggler-icon {border: none;}
     .navbar-toggler:focus {box-shadow: none;outline: none;}
-    .navbar-nav {margin-top: 35px;padding-bottom: 123px;}
+    .navbar-nav {margin-top: 70px;padding-bottom: 140px;}
     .navbar-nav .nav-item .nav-link {padding: 7px 0;width: 40%; text-align: center;margin: auto;font-size: 16px;}
     header a[href="#home"] {border: none;}
     .nav-item {margin: 7px 0;}
@@ -861,7 +861,7 @@ footer span {
     .gellary {padding: 50px 0;}
     .gellary h2 {margin-bottom: 40px;}
     .gellary-item img {height: 225px;}
-    .gellary-info {top: 24px;left: 13px;padding: 15px 8px;width: 85%;height: 78%;}
+    .gellary-info {top: 24px;left: 13px;padding: 25px 17.3px;width: 85%;height: 78%;}
     .gellary-info h4 {font-size: 18px;padding: 3px 0;}
     .gellary-info p {margin-top: 15px;}
     .gellary .for-responsive {display: none;}
@@ -878,6 +878,7 @@ footer span {
     .news-date {width: 65px;height: 65px;margin: 10px auto 40px;padding-top: 8px;}
     .two-item .news-title {text-align: center;}
     .two-item .news-date {margin: 0 auto 10px;}
+    .two-item .news-date span {margin: 0;}
     .two-item .for-responsive {margin: 40px auto 10px;}
     
     .team {padding: 50px 0;}
